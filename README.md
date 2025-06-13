@@ -6,9 +6,9 @@ A delightful and interactive **vegetable shopping and billing app** built with *
 
 ## 🔗 Live Project
 
-➡️ Visit [BookDashboard](https://book-dashboard-gamma.vercel.app/)
+➡️ Visit [Veggie Basket](https://veggie-basket.vercel.app/)
 
-This will take you directly to the BookDashboard.
+This will take you directly to the Veggie Basket application.
 
 ---
 
