@@ -4,6 +4,14 @@ A delightful and interactive **vegetable shopping and billing app** built with *
 
 ---
 
+## 🔗 Live Project
+
+➡️ Visit [BookDashboard](https://book-dashboard-gamma.vercel.app/)
+
+This will take you directly to the BookDashboard.
+
+---
+
 ## 🚀 Features
 
 - 🍅 Browse a variety of vegetable products from the [Open Food Facts API](https://world.openfoodfacts.org/)
