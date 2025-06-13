@@ -73,6 +73,8 @@ const signal = controller.signal;
 
 Custom-built shimmer UI as the fallback for Suspense using simple animated skeletons, avoiding blank screens during lazy loading.
 
+---
+
 📁 Folder Structure
 ```css
 src/
@@ -85,6 +87,7 @@ src/
 ├── App.jsx
 └── main.jsx
 ```
+---
 
 📬 Contact
 
