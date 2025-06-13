@@ -36,7 +36,7 @@ This will take you directly to the Veggie Basket application.
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/veggie-basket.git
+git clone https://github.com/durgeshpd/veggie-basket.git
 cd veggie-basket
 npm install
 npm run dev
